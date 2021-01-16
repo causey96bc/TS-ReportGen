@@ -6,6 +6,10 @@ var DataSummary = /** @class */ (function () {
         this.analyzer = analyzer;
         this.outPutTarget = outPutTarget;
     }
+    DataSummary.prototype.buildAndPrintReport = function (matches) {
+        var output = this.analyzer.run(matches);
+        this.outPutTarget.print(output);
+    };
     return DataSummary;
 }());
 exports.DataSummary = DataSummary;
