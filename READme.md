@@ -31,7 +31,3 @@
 
 ## Ineritance 
 - The purpose of the inheritance folder is to show the differences between compositional and inheritance based programming. Here is a great blog post article that explains the differences in more detail. https://blog.bitsrc.io/inheritance-vs-composition-which-is-better-for-your-javascript-project-16f4a077de9 
-
-
-# heres a cool image to get you to think about composition. 
-- https://miro.medium.com/max/1200/1*mp9gh6RXvw3TMbBun2_fAg.jpeg
