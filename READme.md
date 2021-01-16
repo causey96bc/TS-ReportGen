@@ -34,4 +34,4 @@
 
 
 # heres a cool image to get you to think about composition. 
-- https://miro.medium.com/max/1200/1*mp9gh6RXvw3TMbBun2_fAg.jpeg
+![composition](https://miro.medium.com/max/1200/1*mp9gh6RXvw3TMbBun2_fAg.jpeg)
