@@ -11,5 +11,6 @@ export class DataSummary {
   buildAndPrintReport(matches: MatchData[]): void {
     const output = this.analyzer.run(matches);
     this.outPutTarget.print(output);
+    console.log("output", output);
   }
-}
+};
