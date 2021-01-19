@@ -9,7 +9,9 @@ var DataSummary = /** @class */ (function () {
     DataSummary.prototype.buildAndPrintReport = function (matches) {
         var output = this.analyzer.run(matches);
         this.outPutTarget.print(output);
+        console.log("output", output);
     };
     return DataSummary;
 }());
 exports.DataSummary = DataSummary;
+;
